@@ -1,0 +1,10 @@
+/Users/zanderraycraft/Documents/personalProjects/wallet_proj/rust-wallet/rust-wallet-v2/target/debug/deps/sha1-b3d909f360a9b2b2.rmeta: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs
+
+/Users/zanderraycraft/Documents/personalProjects/wallet_proj/rust-wallet/rust-wallet-v2/target/debug/deps/libsha1-b3d909f360a9b2b2.rlib: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs
+
+/Users/zanderraycraft/Documents/personalProjects/wallet_proj/rust-wallet/rust-wallet-v2/target/debug/deps/sha1-b3d909f360a9b2b2.d: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs
+
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/lib.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/consts.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/sha-1-0.9.8/src/compress/soft.rs:
