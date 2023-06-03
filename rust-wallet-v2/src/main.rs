@@ -1,6 +1,12 @@
 use anyhow::Result;
+use std::env;
 mod eth_wallet;
-fn main() -> Result<()>{
+mod utils;
+use std::str::FromStr;
+use web3::types::Address;
+
+#[tokio::main]
+async fn main() -> Result<()>{
     let (secret_key, pub_key) = eth_wallet::generate_keypair();
     println!("secret key: {}", &secret_key.to_string());
     println!("public key: {}", &pub_key.to_string());
@@ -13,6 +19,21 @@ fn main() -> Result<()>{
 
     //saving info to a file
     crypto_wallet.save_as_file("crypto_wallet.json")?;
+
+    //Testing the extraction of the wallet from the JSON file
+    let wallet_file_path = "crypto_wallet.json";
+    let loaded_wallet = eth_wallet::Wallet::from_file(wallet_file_path)?;
+    println!("loaded_wallet: {:?}", loaded_wallet);
+
+    let endpoint = env::var("INFURA_RINKEBY_WS")?;
+    let web3_con = eth_wallet::establish_web3_connection(&endpoint).await?;
+
+    let block_number = web3_con.eth().block_number().await?;
+    println!("block number: {}", &block_number);
+
+    let balance = loaded_wallet.get_balance_in_eth(&web3_con).await?;
+    println!("wallet balance: {} eth", &balance);
+
 
     Ok(())
 }
