@@ -1,0 +1,11 @@
+/Users/zanderraycraft/Documents/personalProjects/wallet_proj/rust-wallet/rust-wallet-v2/target/debug/deps/url-9d5f87e97c55462c.rmeta: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/Users/zanderraycraft/Documents/personalProjects/wallet_proj/rust-wallet/rust-wallet-v2/target/debug/deps/url-9d5f87e97c55462c.d: /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs /Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs
+
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/lib.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/host.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/origin.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/parser.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/path_segments.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/slicing.rs:
+/Users/zanderraycraft/.cargo/registry/src/index.crates.io-6f17d22bba15001f/url-2.3.1/src/quirks.rs:
