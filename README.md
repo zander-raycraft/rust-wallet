@@ -1,5 +1,5 @@
 # Cryptocurrency wallet built in rust
-Rudimentary Crypto wallet made using Rust language, utilizing various Rust packages as well as help with MetaMask and Infura.io
+Rudimentary Crypto wallet made using Rust language, utilizing various Rust packages as well as help with MetaMask and Infura.io, used as a command line tool, allowing access to wallets on personal machine to help prevent security leaks from online password storage
 <h1>Tech stack</h1>
 
 🦀![GitHub Fork](https://img.shields.io/badge/Code-Rust-orange?logo=rust&logoColor=orange)
